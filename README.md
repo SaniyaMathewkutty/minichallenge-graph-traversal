@@ -8,10 +8,10 @@ We are building an autocomplete feature for retrieving words from a dictionary, 
 
 Guiding questions:
 
-a. What kind of graph is used in the code?
+a. What kind of graph is used in the code? trie data structures
 
 b. What graph traversal algorithms do you know?
 
-c. Which graph traversal algorithm is used in the sample code?
+c. Which graph traversal algorithm is used in the sample code? depth first search 
 
 d. Does the code satisfy all aspects of the problem statement?
